@@ -6,4 +6,4 @@ spring:
   cloud: 
     config: 
       allowOverride: true
-      overrideSystemProperties: false
+      overrideSystemProperties: true
