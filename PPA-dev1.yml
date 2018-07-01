@@ -1,7 +1,4 @@
 profile: dev
 name: name-dev
 password: password-dev
-spring:
-  cloud:
-    config:
-      allowOverride: true
+countTime: 2018-07-github
