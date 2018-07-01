@@ -30,7 +30,7 @@ public class ConfigClinetController {
 <font color=#0099ff size=12 face="黑体">黑体</font>
 <font color=#00ffff size=3>null</font>
 <font color=red size=5>graysss
-地方vsdjfsdfjsdo;看看书的山东播剧so网卡进入个人沃尔夫我也色粉色来看看按时发放时发送栏开发我看反馈了违法
+地方vsdjfsdfjsdo;看看书的山东播剧so网卡进入个人沃尔夫<br/>我也色粉色来看看按时发放时发送栏开发我看反馈了违法
 </font>
 
 
